@@ -1233,17 +1233,20 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner3.jpg);
+  background-image: url(../img/banner/main_bg2.jpg);
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner4.jpg);
+  background-image: url(../img/banner/main_bg1.jpg);
+}
+.slider_bg_3 {
+  background-image: url(../img/banner/main_bg3.jpg);
 }
 
 /* line 8, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_area .single_slider {
-  height: 700px;
+  height: 600px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
